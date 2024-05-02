@@ -53,7 +53,7 @@ class User implements IUser{
 
     //transactionTrigger: -> get userid which need to pair -> pending -> add transaction to array 
     // payment if 2 payments is ok -> remove transaction, change balance  
-
+// пасхалка
 
 
     // + добавить новый функционал от каждого человека
